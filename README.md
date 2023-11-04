@@ -121,6 +121,7 @@
 - **Description** - This pedal takes an incoming audio signal and digitizes it using CMOS NAND chips. It then creates harmonic variants of the resulting bit stream, fiddles, merges, and then DtoA to create a pretty wild and out of control fuzz sound.
 
 
-
+## Attribution
+Some pedals contain vector art used under license (Creative Commons, Public Domain). See ATTRIBUTION.md files in pedal directories.
 
 
