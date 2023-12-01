@@ -8,7 +8,7 @@
 ## Pedals
 
 ### Low Tide
-<img alt="low tide" src="./low-tide/low-tide-final.jpeg" width=200px>
+<img alt="low tide" src="./low-tide/low-tide-final.jpeg" width=400px>
 
 - **Circuit Design** - PedalPCB [Low Tide Modulator](https://www.pedalpcb.com/product/pcb406/)
 - **Based on** - Fairfield Circuitry Shallow Water
