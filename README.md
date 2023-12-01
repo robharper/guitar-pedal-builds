@@ -7,8 +7,17 @@
 
 ## Pedals
 
-### Space Chorus *(Work in progress)*
-<img alt="space chorus" src="./space-chorus/space-chorus.jpeg" width=200px/>
+### Low Tide
+<img alt="low tide" src="./low-tide/low-tide-final.jpeg" width=200px>
+
+- **Circuit Design** - PedalPCB [Low Tide Modulator](https://www.pedalpcb.com/product/pcb406/)
+- **Based on** - Fairfield Circuitry Shallow Water
+- **Effect Type** - Modulation / "K-Field Modulator" / Chorus / Flange
+- **Description** - The circuit creates random modulation effect through a random pulse generator, a gating circuit, a low-pass filter, and a bucket-brigade delay. When you see demos only of the Fairfield pedal is sounds pretty "out there" but you can dial this pedal in to make a wide variety of great effects: low-fi, chorus, vibrator, and flanger. The randomness adds a really cool dimension and reminds me a little of the Strymon Deco Auto-Flange feature. This is one of my favorite pedals.
+
+
+### Space Chorus
+<img alt="space chorus" src="./space-chorus/space-chorus-final.jpeg" width=200px/>
 
 - **Circuit Design** - PedalPCB [Caesar Chorus](https://www.pedalpcb.com/product/pcb359/)
 - **Based on** - Walrus Audio Julia
@@ -121,7 +130,8 @@
 - **Description** - This pedal takes an incoming audio signal and digitizes it using CMOS NAND chips. It then creates harmonic variants of the resulting bit stream, fiddles, merges, and then DtoA to create a pretty wild and out of control fuzz sound.
 
 
+
+
+
 ## Attribution
 Some pedals contain vector art used under license (Creative Commons, Public Domain). See ATTRIBUTION.md files in pedal directories.
-
-
