@@ -13,4 +13,5 @@
 
 ### Circuit
 PCB and circuit diagram: https://www.pedalpcb.com/product/sobpreamp/
-<img alt="Ben Drive" src="./ben-drive-guts.jpg" width=200px/>
+
+<img alt="Ben Drive" src="./ben-drive-guts.jpg" width=400px/>
