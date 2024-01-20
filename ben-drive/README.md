@@ -4,7 +4,7 @@
 <img alt="Ben Drive" src="./ben-drive.jpeg" width=200px/>
 
 #### Alternate
-<img alt="Ben Drive" src="./ben-drive-alt.jpeg" width=200px/>
+<img alt="Ben Drive" src="./ben-drive-alt.jpg" width=200px/>
 
 #### Design
 - Afinity Designer [Artwork File](./sonofben-raw.afdesign)
@@ -13,4 +13,4 @@
 
 ### Circuit
 PCB and circuit diagram: https://www.pedalpcb.com/product/sobpreamp/
-<img alt="Ben Drive" src="./ben-drive-guts.jpeg" width=200px/>
+<img alt="Ben Drive" src="./ben-drive-guts.jpg" width=200px/>
